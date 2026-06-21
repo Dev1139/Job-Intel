@@ -1,0 +1,4592 @@
+[
+  {
+    "name": "Figma",
+    "careersUrl": "https://boards.greenhouse.io/figma",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "figma",
+    "lastCrawlTime": "2026-06-21T04:41:48.046Z",
+    "hiringStatus": "Surge"
+  },
+  {
+    "name": "Stripe",
+    "careersUrl": "https://boards.greenhouse.io/stripe",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "stripe",
+    "lastCrawlTime": "2026-06-21T04:41:49.564Z",
+    "hiringStatus": "Surge"
+  },
+  {
+    "name": "GitLab",
+    "careersUrl": "https://boards.greenhouse.io/gitlab",
+    "companyType": "Remote-First",
+    "atsType": "Greenhouse",
+    "atsSlug": "gitlab",
+    "lastCrawlTime": "2026-06-21T04:41:48.335Z",
+    "hiringStatus": "Surge"
+  },
+  {
+    "name": "MongoDB",
+    "careersUrl": "https://boards.greenhouse.io/mongodb",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "mongodb",
+    "lastCrawlTime": "2026-06-21T04:41:49.004Z",
+    "hiringStatus": "Surge"
+  },
+  {
+    "name": "Elastic",
+    "careersUrl": "https://boards.greenhouse.io/elastic",
+    "companyType": "Remote-First",
+    "atsType": "Greenhouse",
+    "atsSlug": "elastic",
+    "lastCrawlTime": "2026-06-21T04:41:48.280Z",
+    "hiringStatus": "Surge"
+  },
+  {
+    "name": "Datadog",
+    "careersUrl": "https://boards.greenhouse.io/datadog",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "datadog",
+    "lastCrawlTime": "2026-06-21T04:41:49.263Z",
+    "hiringStatus": "Surge"
+  },
+  {
+    "name": "Reddit",
+    "careersUrl": "https://boards.greenhouse.io/reddit",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "reddit",
+    "lastCrawlTime": "2026-06-21T04:41:47.473Z",
+    "hiringStatus": "Surge"
+  },
+  {
+    "name": "Gusto",
+    "careersUrl": "https://boards.greenhouse.io/gusto",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "gusto",
+    "lastCrawlTime": "2026-06-21T04:41:47.971Z",
+    "hiringStatus": "Passive"
+  },
+  {
+    "name": "Instacart",
+    "careersUrl": "https://boards.greenhouse.io/instacart",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "instacart",
+    "lastCrawlTime": "2026-06-21T04:41:48.064Z",
+    "hiringStatus": "Active"
+  },
+  {
+    "name": "Coinbase",
+    "careersUrl": "https://boards.greenhouse.io/coinbase",
+    "companyType": "Remote-First",
+    "atsType": "Greenhouse",
+    "atsSlug": "coinbase",
+    "lastCrawlTime": "2026-06-21T04:41:47.243Z",
+    "hiringStatus": "Surge"
+  },
+  {
+    "name": "Roblox",
+    "careersUrl": "https://boards.greenhouse.io/roblox",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "roblox",
+    "lastCrawlTime": "2026-06-21T04:41:48.563Z",
+    "hiringStatus": "Surge"
+  },
+  {
+    "name": "Coursera",
+    "careersUrl": "https://boards.greenhouse.io/coursera",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "coursera",
+    "lastCrawlTime": "2026-06-21T04:41:47.309Z",
+    "hiringStatus": "Active"
+  },
+  {
+    "name": "Affirm",
+    "careersUrl": "https://boards.greenhouse.io/affirm",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "affirm",
+    "lastCrawlTime": "2026-06-21T04:41:48.000Z",
+    "hiringStatus": "Surge"
+  },
+  {
+    "name": "Amplitude",
+    "careersUrl": "https://boards.greenhouse.io/amplitude",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "amplitude",
+    "lastCrawlTime": "2026-06-21T04:41:47.753Z",
+    "hiringStatus": "Active"
+  },
+  {
+    "name": "Asana",
+    "careersUrl": "https://boards.greenhouse.io/asana",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "asana",
+    "lastCrawlTime": "2026-06-21T04:41:47.959Z",
+    "hiringStatus": "Surge"
+  },
+  {
+    "name": "Lever Inc.",
+    "careersUrl": "https://jobs.lever.co/lever",
+    "companyType": "Product",
+    "atsType": "Lever",
+    "atsSlug": "lever",
+    "lastCrawlTime": "2026-06-21T04:41:49.006Z",
+    "hiringStatus": "Passive"
+  },
+  {
+    "name": "Netflix",
+    "careersUrl": "https://jobs.lever.co/netflix",
+    "companyType": "Product",
+    "atsType": "Lever",
+    "atsSlug": "netflix",
+    "lastCrawlTime": "2026-06-21T04:41:49.836Z",
+    "hiringStatus": "Passive"
+  },
+  {
+    "name": "Medium",
+    "careersUrl": "https://jobs.lever.co/medium",
+    "companyType": "Product",
+    "atsType": "Lever",
+    "atsSlug": "medium",
+    "lastCrawlTime": "2026-06-21T04:41:49.009Z",
+    "hiringStatus": "Passive"
+  },
+  {
+    "name": "Palantir",
+    "careersUrl": "https://jobs.lever.co/palantir",
+    "companyType": "Product",
+    "atsType": "Lever",
+    "atsSlug": "palantir",
+    "lastCrawlTime": "2026-06-21T04:42:01.161Z",
+    "hiringStatus": "Passive"
+  },
+  {
+    "name": "Lever Demo",
+    "careersUrl": "https://jobs.lever.co/leverdemo",
+    "companyType": "Product",
+    "atsType": "Lever",
+    "atsSlug": "leverdemo",
+    "lastCrawlTime": "2026-06-21T04:41:57.525Z",
+    "hiringStatus": "Passive"
+  },
+  {
+    "name": "Renterra",
+    "careersUrl": "https://jobs.ashbyhq.com/renterra",
+    "companyType": "Startup",
+    "atsType": "Ashby",
+    "atsSlug": "renterra",
+    "lastCrawlTime": "2026-06-21T04:41:48.412Z",
+    "hiringStatus": "Active"
+  },
+  {
+    "name": "Canals",
+    "careersUrl": "https://jobs.ashbyhq.com/canals",
+    "companyType": "Startup",
+    "atsType": "Ashby",
+    "atsSlug": "canals",
+    "lastCrawlTime": "2026-06-21T04:41:47.859Z",
+    "hiringStatus": "Active"
+  },
+  {
+    "name": "Mechanize",
+    "careersUrl": "https://jobs.ashbyhq.com/mechanize",
+    "companyType": "Startup",
+    "atsType": "Ashby",
+    "atsSlug": "mechanize",
+    "lastCrawlTime": "2026-06-21T04:41:48.304Z",
+    "hiringStatus": "Active"
+  },
+  {
+    "name": "Linear",
+    "careersUrl": "https://jobs.ashbyhq.com/linear",
+    "companyType": "Remote-First",
+    "atsType": "Ashby",
+    "atsSlug": "linear",
+    "lastCrawlTime": "2026-06-21T04:41:48.861Z",
+    "hiringStatus": "Active"
+  },
+  {
+    "name": "Vercel",
+    "careersUrl": "https://jobs.ashbyhq.com/vercel",
+    "companyType": "Remote-First",
+    "atsType": "Ashby",
+    "atsSlug": "vercel",
+    "lastCrawlTime": "2026-06-21T04:41:48.295Z",
+    "hiringStatus": "Passive"
+  },
+  {
+    "name": "Cursor AI",
+    "careersUrl": "https://jobs.ashbyhq.com/cursor",
+    "companyType": "AI-Startup",
+    "atsType": "Ashby",
+    "atsSlug": "cursor",
+    "lastCrawlTime": "2026-06-21T04:41:49.025Z",
+    "hiringStatus": "Surge"
+  },
+  {
+    "name": "Warp Terminal",
+    "careersUrl": "https://jobs.ashbyhq.com/warp",
+    "companyType": "Startup",
+    "atsType": "Ashby",
+    "atsSlug": "warp",
+    "lastCrawlTime": "2026-06-21T04:41:48.837Z",
+    "hiringStatus": "Active"
+  },
+  {
+    "name": "Modal Labs",
+    "careersUrl": "https://jobs.ashbyhq.com/modal",
+    "companyType": "AI-Startup",
+    "atsType": "Ashby",
+    "atsSlug": "modal",
+    "lastCrawlTime": "2026-06-21T04:41:48.882Z",
+    "hiringStatus": "Surge"
+  },
+  {
+    "name": "OpenAI",
+    "careersUrl": "https://boards.greenhouse.io/openai",
+    "companyType": "AI-Startup",
+    "atsType": "Greenhouse",
+    "atsSlug": "openai",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:48.433Z"
+  },
+  {
+    "name": "Anthropic",
+    "careersUrl": "https://jobs.ashbyhq.com/anthropic",
+    "companyType": "AI-Startup",
+    "atsType": "Ashby",
+    "atsSlug": "anthropic",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:48.871Z"
+  },
+  {
+    "name": "Hugging Face",
+    "careersUrl": "https://jobs.ashbyhq.com/huggingface",
+    "companyType": "AI-Startup",
+    "atsType": "Ashby",
+    "atsSlug": "huggingface",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:49.018Z"
+  },
+  {
+    "name": "Perplexity AI",
+    "careersUrl": "https://jobs.lever.co/perplexityai",
+    "companyType": "AI-Startup",
+    "atsType": "Lever",
+    "atsSlug": "perplexityai",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:51.676Z"
+  },
+  {
+    "name": "Cohere",
+    "careersUrl": "https://jobs.ashbyhq.com/cohere",
+    "companyType": "AI-Startup",
+    "atsType": "Ashby",
+    "atsSlug": "cohere",
+    "hiringStatus": "Surge",
+    "lastCrawlTime": "2026-06-21T04:41:49.438Z"
+  },
+  {
+    "name": "Midjourney",
+    "careersUrl": "https://jobs.ashbyhq.com/midjourney",
+    "companyType": "AI-Startup",
+    "atsType": "Ashby",
+    "atsSlug": "midjourney",
+    "hiringStatus": "Active",
+    "lastCrawlTime": "2026-06-21T04:41:48.793Z"
+  },
+  {
+    "name": "ElevenLabs",
+    "careersUrl": "https://jobs.lever.co/elevenlabs",
+    "companyType": "AI-Startup",
+    "atsType": "Lever",
+    "atsSlug": "elevenlabs",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:51.687Z"
+  },
+  {
+    "name": "Runway",
+    "careersUrl": "https://jobs.ashbyhq.com/runway",
+    "companyType": "AI-Startup",
+    "atsType": "Ashby",
+    "atsSlug": "runway",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:49.011Z"
+  },
+  {
+    "name": "Jasper",
+    "careersUrl": "https://boards.greenhouse.io/jasper",
+    "companyType": "AI-Startup",
+    "atsType": "Greenhouse",
+    "atsSlug": "jasper",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:49.010Z"
+  },
+  {
+    "name": "Character.ai",
+    "careersUrl": "https://jobs.ashbyhq.com/characterai",
+    "companyType": "AI-Startup",
+    "atsType": "Ashby",
+    "atsSlug": "characterai",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:49.071Z"
+  },
+  {
+    "name": "Mistral AI",
+    "careersUrl": "https://jobs.ashbyhq.com/mistralai",
+    "companyType": "AI-Startup",
+    "atsType": "Ashby",
+    "atsSlug": "mistralai",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:49.143Z"
+  },
+  {
+    "name": "Phind",
+    "careersUrl": "https://jobs.lever.co/phind",
+    "companyType": "AI-Startup",
+    "atsType": "Lever",
+    "atsSlug": "phind",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:51.732Z"
+  },
+  {
+    "name": "Harvey",
+    "careersUrl": "https://jobs.ashbyhq.com/harvey",
+    "companyType": "AI-Startup",
+    "atsType": "Ashby",
+    "atsSlug": "harvey",
+    "hiringStatus": "Surge",
+    "lastCrawlTime": "2026-06-21T04:41:50.019Z"
+  },
+  {
+    "name": "Adept",
+    "careersUrl": "https://jobs.lever.co/adept",
+    "companyType": "AI-Startup",
+    "atsType": "Lever",
+    "atsSlug": "adept",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:51.857Z"
+  },
+  {
+    "name": "Inflection",
+    "careersUrl": "https://boards.greenhouse.io/inflection",
+    "companyType": "AI-Startup",
+    "atsType": "Greenhouse",
+    "atsSlug": "inflection",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:49.461Z"
+  },
+  {
+    "name": "Synthesia",
+    "careersUrl": "https://boards.greenhouse.io/synthesia",
+    "companyType": "AI-Startup",
+    "atsType": "Greenhouse",
+    "atsSlug": "synthesia",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:49.480Z"
+  },
+  {
+    "name": "Scale AI",
+    "careersUrl": "https://jobs.ashbyhq.com/scaleai",
+    "companyType": "AI-Startup",
+    "atsType": "Ashby",
+    "atsSlug": "scaleai",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:49.424Z"
+  },
+  {
+    "name": "DeepL",
+    "careersUrl": "https://jobs.ashbyhq.com/deepl",
+    "companyType": "AI-Startup",
+    "atsType": "Ashby",
+    "atsSlug": "deepl",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:49.445Z"
+  },
+  {
+    "name": "Writer",
+    "careersUrl": "https://boards.greenhouse.io/writer",
+    "companyType": "AI-Startup",
+    "atsType": "Greenhouse",
+    "atsSlug": "writer",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:49.483Z"
+  },
+  {
+    "name": "AssemblyAI",
+    "careersUrl": "https://jobs.lever.co/assemblyai",
+    "companyType": "AI-Startup",
+    "atsType": "Lever",
+    "atsSlug": "assemblyai",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:49.462Z"
+  },
+  {
+    "name": "Deepgram",
+    "careersUrl": "https://jobs.lever.co/deepgram",
+    "companyType": "AI-Startup",
+    "atsType": "Lever",
+    "atsSlug": "deepgram",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:49.496Z"
+  },
+  {
+    "name": "Pinecone",
+    "careersUrl": "https://jobs.lever.co/pinecone",
+    "companyType": "AI-Startup",
+    "atsType": "Lever",
+    "atsSlug": "pinecone",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:52.051Z"
+  },
+  {
+    "name": "Weaviate",
+    "careersUrl": "https://jobs.lever.co/weaviate",
+    "companyType": "AI-Startup",
+    "atsType": "Lever",
+    "atsSlug": "weaviate",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:52.117Z"
+  },
+  {
+    "name": "Chroma",
+    "careersUrl": "https://jobs.lever.co/chroma",
+    "companyType": "AI-Startup",
+    "atsType": "Lever",
+    "atsSlug": "chroma",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:52.135Z"
+  },
+  {
+    "name": "Qdrant",
+    "careersUrl": "https://jobs.lever.co/qdrant",
+    "companyType": "AI-Startup",
+    "atsType": "Lever",
+    "atsSlug": "qdrant",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:52.179Z"
+  },
+  {
+    "name": "LangChain",
+    "careersUrl": "https://boards.greenhouse.io/langchain",
+    "companyType": "AI-Startup",
+    "atsType": "Greenhouse",
+    "atsSlug": "langchain",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:50.111Z"
+  },
+  {
+    "name": "LlamaIndex",
+    "careersUrl": "https://jobs.ashbyhq.com/llamaindex",
+    "companyType": "AI-Startup",
+    "atsType": "Ashby",
+    "atsSlug": "llamaindex",
+    "hiringStatus": "Active",
+    "lastCrawlTime": "2026-06-21T04:41:50.066Z"
+  },
+  {
+    "name": "Weights & Biases",
+    "careersUrl": "https://jobs.lever.co/weightsbiases",
+    "companyType": "AI-Startup",
+    "atsType": "Lever",
+    "atsSlug": "weightsbiases",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:52.629Z"
+  },
+  {
+    "name": "Anyscale",
+    "careersUrl": "https://jobs.ashbyhq.com/anyscale",
+    "companyType": "AI-Startup",
+    "atsType": "Ashby",
+    "atsSlug": "anyscale",
+    "hiringStatus": "Surge",
+    "lastCrawlTime": "2026-06-21T04:41:50.126Z"
+  },
+  {
+    "name": "Together AI",
+    "careersUrl": "https://boards.greenhouse.io/togetherai",
+    "companyType": "AI-Startup",
+    "atsType": "Greenhouse",
+    "atsSlug": "togetherai",
+    "hiringStatus": "Surge",
+    "lastCrawlTime": "2026-06-21T04:41:50.496Z"
+  },
+  {
+    "name": "CoreWeave",
+    "careersUrl": "https://boards.greenhouse.io/coreweave",
+    "companyType": "AI-Startup",
+    "atsType": "Greenhouse",
+    "atsSlug": "coreweave",
+    "hiringStatus": "Surge",
+    "lastCrawlTime": "2026-06-21T04:41:51.166Z"
+  },
+  {
+    "name": "Lambda Labs",
+    "careersUrl": "https://boards.greenhouse.io/lambdalabs",
+    "companyType": "AI-Startup",
+    "atsType": "Greenhouse",
+    "atsSlug": "lambdalabs",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:50.313Z"
+  },
+  {
+    "name": "RunPod",
+    "careersUrl": "https://jobs.lever.co/runpod",
+    "companyType": "AI-Startup",
+    "atsType": "Lever",
+    "atsSlug": "runpod",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:50.377Z"
+  },
+  {
+    "name": "Groq",
+    "careersUrl": "https://jobs.ashbyhq.com/groq",
+    "companyType": "AI-Startup",
+    "atsType": "Ashby",
+    "atsSlug": "groq",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:50.586Z"
+  },
+  {
+    "name": "Cerebras",
+    "careersUrl": "https://boards.greenhouse.io/cerebras",
+    "companyType": "AI-Startup",
+    "atsType": "Greenhouse",
+    "atsSlug": "cerebras",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:50.708Z"
+  },
+  {
+    "name": "SambaNova",
+    "careersUrl": "https://boards.greenhouse.io/sambanova",
+    "companyType": "AI-Startup",
+    "atsType": "Greenhouse",
+    "atsSlug": "sambanova",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:50.783Z"
+  },
+  {
+    "name": "Graphcore",
+    "careersUrl": "https://jobs.ashbyhq.com/graphcore",
+    "companyType": "AI-Startup",
+    "atsType": "Ashby",
+    "atsSlug": "graphcore",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:50.733Z"
+  },
+  {
+    "name": "Tenstorrent",
+    "careersUrl": "https://jobs.ashbyhq.com/tenstorrent",
+    "companyType": "AI-Startup",
+    "atsType": "Ashby",
+    "atsSlug": "tenstorrent",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:50.741Z"
+  },
+  {
+    "name": "D-Matrix",
+    "careersUrl": "https://jobs.lever.co/dmatrix",
+    "companyType": "AI-Startup",
+    "atsType": "Lever",
+    "atsSlug": "dmatrix",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.448Z"
+  },
+  {
+    "name": "Modular",
+    "careersUrl": "https://jobs.ashbyhq.com/modular",
+    "companyType": "AI-Startup",
+    "atsType": "Ashby",
+    "atsSlug": "modular",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:50.862Z"
+  },
+  {
+    "name": "Lightning AI",
+    "careersUrl": "https://jobs.lever.co/lightningai",
+    "companyType": "AI-Startup",
+    "atsType": "Lever",
+    "atsSlug": "lightningai",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:51.002Z"
+  },
+  {
+    "name": "Stability AI",
+    "careersUrl": "https://jobs.lever.co/stabilityai",
+    "companyType": "AI-Startup",
+    "atsType": "Lever",
+    "atsSlug": "stabilityai",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:51.166Z"
+  },
+  {
+    "name": "Pika Labs",
+    "careersUrl": "https://jobs.lever.co/pikalabs",
+    "companyType": "AI-Startup",
+    "atsType": "Lever",
+    "atsSlug": "pikalabs",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.321Z"
+  },
+  {
+    "name": "HeyGen",
+    "careersUrl": "https://boards.greenhouse.io/heygen",
+    "companyType": "AI-Startup",
+    "atsType": "Greenhouse",
+    "atsSlug": "heygen",
+    "hiringStatus": "Surge",
+    "lastCrawlTime": "2026-06-21T04:41:51.346Z"
+  },
+  {
+    "name": "Defog",
+    "careersUrl": "https://jobs.lever.co/defog",
+    "companyType": "AI-Startup",
+    "atsType": "Lever",
+    "atsSlug": "defog",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.241Z"
+  },
+  {
+    "name": "Replika",
+    "careersUrl": "https://jobs.ashbyhq.com/replika",
+    "companyType": "AI-Startup",
+    "atsType": "Ashby",
+    "atsSlug": "replika",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:51.270Z"
+  },
+  {
+    "name": "Shield AI",
+    "careersUrl": "https://jobs.lever.co/shieldai",
+    "companyType": "AI-Startup",
+    "atsType": "Lever",
+    "atsSlug": "shieldai",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:05.644Z"
+  },
+  {
+    "name": "Cognition AI",
+    "careersUrl": "https://jobs.lever.co/cognitionai",
+    "companyType": "AI-Startup",
+    "atsType": "Lever",
+    "atsSlug": "cognitionai",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.669Z"
+  },
+  {
+    "name": "Glean",
+    "careersUrl": "https://jobs.lever.co/glean",
+    "companyType": "AI-Startup",
+    "atsType": "Lever",
+    "atsSlug": "glean",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:51.807Z"
+  },
+  {
+    "name": "Perplexity",
+    "careersUrl": "https://jobs.ashbyhq.com/perplexity",
+    "companyType": "AI-Startup",
+    "atsType": "Ashby",
+    "atsSlug": "perplexity",
+    "hiringStatus": "Active",
+    "lastCrawlTime": "2026-06-21T04:41:51.645Z"
+  },
+  {
+    "name": "Sana Labs",
+    "careersUrl": "https://jobs.ashbyhq.com/sanalabs",
+    "companyType": "AI-Startup",
+    "atsType": "Ashby",
+    "atsSlug": "sanalabs",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:51.620Z"
+  },
+  {
+    "name": "Typeface",
+    "careersUrl": "https://boards.greenhouse.io/typeface",
+    "companyType": "AI-Startup",
+    "atsType": "Greenhouse",
+    "atsSlug": "typeface",
+    "hiringStatus": "Active",
+    "lastCrawlTime": "2026-06-21T04:41:51.782Z"
+  },
+  {
+    "name": "Kognitos",
+    "careersUrl": "https://boards.greenhouse.io/kognitos",
+    "companyType": "AI-Startup",
+    "atsType": "Greenhouse",
+    "atsSlug": "kognitos",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:52.021Z"
+  },
+  {
+    "name": "Harvey AI",
+    "careersUrl": "https://boards.greenhouse.io/harveyai",
+    "companyType": "AI-Startup",
+    "atsType": "Greenhouse",
+    "atsSlug": "harveyai",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:52.057Z"
+  },
+  {
+    "name": "Regie.ai",
+    "careersUrl": "https://boards.greenhouse.io/regieai",
+    "companyType": "AI-Startup",
+    "atsType": "Greenhouse",
+    "atsSlug": "regieai",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:52.520Z"
+  },
+  {
+    "name": "Coda",
+    "careersUrl": "https://boards.greenhouse.io/coda",
+    "companyType": "AI-Startup",
+    "atsType": "Greenhouse",
+    "atsSlug": "coda",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:52.068Z"
+  },
+  {
+    "name": "Mem.ai",
+    "careersUrl": "https://boards.greenhouse.io/memai",
+    "companyType": "AI-Startup",
+    "atsType": "Greenhouse",
+    "atsSlug": "memai",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:52.120Z"
+  },
+  {
+    "name": "Rewind AI",
+    "careersUrl": "https://jobs.ashbyhq.com/rewindai",
+    "companyType": "AI-Startup",
+    "atsType": "Ashby",
+    "atsSlug": "rewindai",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:52.129Z"
+  },
+  {
+    "name": "Tabnine",
+    "careersUrl": "https://jobs.ashbyhq.com/tabnine",
+    "companyType": "AI-Startup",
+    "atsType": "Ashby",
+    "atsSlug": "tabnine",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:52.128Z"
+  },
+  {
+    "name": "Meesho",
+    "careersUrl": "https://boards.greenhouse.io/meesho",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "meesho",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:52.218Z"
+  },
+  {
+    "name": "CRED",
+    "careersUrl": "https://boards.greenhouse.io/cred",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "cred",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:52.634Z"
+  },
+  {
+    "name": "Zepto",
+    "careersUrl": "https://boards.greenhouse.io/zepto",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "zepto",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:52.377Z"
+  },
+  {
+    "name": "Groww",
+    "careersUrl": "https://boards.greenhouse.io/groww",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "groww",
+    "hiringStatus": "Active",
+    "lastCrawlTime": "2026-06-21T04:41:52.632Z"
+  },
+  {
+    "name": "Delhivery",
+    "careersUrl": "https://jobs.lever.co/delhivery",
+    "companyType": "Unicorn",
+    "atsType": "Lever",
+    "atsSlug": "delhivery",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:52.383Z"
+  },
+  {
+    "name": "BharatPe",
+    "careersUrl": "https://boards.greenhouse.io/bharatpe",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "bharatpe",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:52.482Z"
+  },
+  {
+    "name": "ShareChat",
+    "careersUrl": "https://boards.greenhouse.io/sharechat",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "sharechat",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:52.464Z"
+  },
+  {
+    "name": "PhonePe",
+    "careersUrl": "https://boards.greenhouse.io/phonepe",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "phonepe",
+    "hiringStatus": "Surge",
+    "lastCrawlTime": "2026-06-21T04:41:53.617Z"
+  },
+  {
+    "name": "Razorpay",
+    "careersUrl": "https://boards.greenhouse.io/razorpay",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "razorpay",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:52.636Z"
+  },
+  {
+    "name": "Swiggy",
+    "careersUrl": "https://boards.greenhouse.io/swiggy",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "swiggy",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:52.730Z"
+  },
+  {
+    "name": "Zomato",
+    "careersUrl": "https://jobs.lever.co/zomato",
+    "companyType": "Unicorn",
+    "atsType": "Lever",
+    "atsSlug": "zomato",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:52.494Z"
+  },
+  {
+    "name": "Cars24",
+    "careersUrl": "https://boards.greenhouse.io/cars24",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "cars24",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:52.563Z"
+  },
+  {
+    "name": "Spinny",
+    "careersUrl": "https://jobs.lever.co/spinny",
+    "companyType": "Unicorn",
+    "atsType": "Lever",
+    "atsSlug": "spinny",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:52.701Z"
+  },
+  {
+    "name": "Licious",
+    "careersUrl": "https://jobs.lever.co/licious",
+    "companyType": "Unicorn",
+    "atsType": "Lever",
+    "atsSlug": "licious",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:52.702Z"
+  },
+  {
+    "name": "Dream11",
+    "careersUrl": "https://boards.greenhouse.io/dream11",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "dream11",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:52.787Z"
+  },
+  {
+    "name": "Upstox",
+    "careersUrl": "https://jobs.lever.co/upstox",
+    "companyType": "Unicorn",
+    "atsType": "Lever",
+    "atsSlug": "upstox",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:52.784Z"
+  },
+  {
+    "name": "Zerodha",
+    "careersUrl": "https://jobs.lever.co/zerodha",
+    "companyType": "Unicorn",
+    "atsType": "Lever",
+    "atsSlug": "zerodha",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:52.797Z"
+  },
+  {
+    "name": "INDmoney",
+    "careersUrl": "https://boards.greenhouse.io/indmoney",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "indmoney",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:52.849Z"
+  },
+  {
+    "name": "Scripbox",
+    "careersUrl": "https://boards.greenhouse.io/scripbox",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "scripbox",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:52.902Z"
+  },
+  {
+    "name": "Smallcase",
+    "careersUrl": "https://jobs.lever.co/smallcase",
+    "companyType": "Unicorn",
+    "atsType": "Lever",
+    "atsSlug": "smallcase",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:52.949Z"
+  },
+  {
+    "name": "Nykaa",
+    "careersUrl": "https://jobs.lever.co/nykaa",
+    "companyType": "Unicorn",
+    "atsType": "Lever",
+    "atsSlug": "nykaa",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.860Z"
+  },
+  {
+    "name": "Paytm",
+    "careersUrl": "https://boards.greenhouse.io/paytm",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "paytm",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.042Z"
+  },
+  {
+    "name": "Pine Labs",
+    "careersUrl": "https://boards.greenhouse.io/pinelabs",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "pinelabs",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.458Z"
+  },
+  {
+    "name": "InMobi",
+    "careersUrl": "https://jobs.lever.co/inmobi",
+    "companyType": "Unicorn",
+    "atsType": "Lever",
+    "atsSlug": "inmobi",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.044Z"
+  },
+  {
+    "name": "Postman",
+    "careersUrl": "https://jobs.lever.co/postman",
+    "companyType": "Unicorn",
+    "atsType": "Lever",
+    "atsSlug": "postman",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.045Z"
+  },
+  {
+    "name": "Ola Cabs",
+    "careersUrl": "https://jobs.lever.co/olacabs",
+    "companyType": "Unicorn",
+    "atsType": "Lever",
+    "atsSlug": "olacabs",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.053Z"
+  },
+  {
+    "name": "Ola Electric",
+    "careersUrl": "https://boards.greenhouse.io/olaelectric",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "olaelectric",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.139Z"
+  },
+  {
+    "name": "Unacademy",
+    "careersUrl": "https://jobs.lever.co/unacademy",
+    "companyType": "Unicorn",
+    "atsType": "Lever",
+    "atsSlug": "unacademy",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.103Z"
+  },
+  {
+    "name": "Eruditus",
+    "careersUrl": "https://eruditus.myworkdayjobs.com/Careers",
+    "companyType": "Unicorn",
+    "atsType": "Workday",
+    "atsSlug": "eruditus",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.104Z"
+  },
+  {
+    "name": "Lead School",
+    "careersUrl": "https://boards.greenhouse.io/leadschool",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "leadschool",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.175Z"
+  },
+  {
+    "name": "PhysicsWallah",
+    "careersUrl": "https://physicswallah.myworkdayjobs.com/Careers",
+    "companyType": "Unicorn",
+    "atsType": "Workday",
+    "atsSlug": "physicswallah",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.050Z"
+  },
+  {
+    "name": "Byju's",
+    "careersUrl": "https://boards.greenhouse.io/byjus",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "byjus",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.249Z"
+  },
+  {
+    "name": "Vedantu",
+    "careersUrl": "https://vedantu.myworkdayjobs.com/Careers",
+    "companyType": "Unicorn",
+    "atsType": "Workday",
+    "atsSlug": "vedantu",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.107Z"
+  },
+  {
+    "name": "UpGrad",
+    "careersUrl": "https://jobs.lever.co/upgrad",
+    "companyType": "Unicorn",
+    "atsType": "Lever",
+    "atsSlug": "upgrad",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.375Z"
+  },
+  {
+    "name": "PharmEasy",
+    "careersUrl": "https://jobs.lever.co/pharmeasy",
+    "companyType": "Unicorn",
+    "atsType": "Lever",
+    "atsSlug": "pharmeasy",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.373Z"
+  },
+  {
+    "name": "1mg",
+    "careersUrl": "https://boards.greenhouse.io/1mg",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "1mg",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.928Z"
+  },
+  {
+    "name": "Cure.fit",
+    "careersUrl": "https://jobs.lever.co/curefit",
+    "companyType": "Unicorn",
+    "atsType": "Lever",
+    "atsSlug": "curefit",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.374Z"
+  },
+  {
+    "name": "Polygon",
+    "careersUrl": "https://boards.greenhouse.io/polygon",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "polygon",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.449Z"
+  },
+  {
+    "name": "CoinDCX",
+    "careersUrl": "https://coindcx.myworkdayjobs.com/Careers",
+    "companyType": "Unicorn",
+    "atsType": "Workday",
+    "atsSlug": "coindcx",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.865Z"
+  },
+  {
+    "name": "CoinSwitch",
+    "careersUrl": "https://coinswitch.myworkdayjobs.com/Careers",
+    "companyType": "Unicorn",
+    "atsType": "Workday",
+    "atsSlug": "coinswitch",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.210Z"
+  },
+  {
+    "name": "Mobile Premier League",
+    "careersUrl": "https://boards.greenhouse.io/mobilepremierleague",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "mobilepremierleague",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.474Z"
+  },
+  {
+    "name": "Acko",
+    "careersUrl": "https://acko.myworkdayjobs.com/Careers",
+    "companyType": "Unicorn",
+    "atsType": "Workday",
+    "atsSlug": "acko",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.261Z"
+  },
+  {
+    "name": "Digit Insurance",
+    "careersUrl": "https://boards.greenhouse.io/digitinsurance",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "digitinsurance",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.576Z"
+  },
+  {
+    "name": "PolicyBazaar",
+    "careersUrl": "https://boards.greenhouse.io/policybazaar",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "policybazaar",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.584Z"
+  },
+  {
+    "name": "FirstCry",
+    "careersUrl": "https://boards.greenhouse.io/firstcry",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "firstcry",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.581Z"
+  },
+  {
+    "name": "Mamaearth",
+    "careersUrl": "https://mamaearth.myworkdayjobs.com/Careers",
+    "companyType": "Unicorn",
+    "atsType": "Workday",
+    "atsSlug": "mamaearth",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.326Z"
+  },
+  {
+    "name": "Sugar Cosmetics",
+    "careersUrl": "https://boards.greenhouse.io/sugarcosmetics",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "sugarcosmetics",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.669Z"
+  },
+  {
+    "name": "Purplle",
+    "careersUrl": "https://jobs.lever.co/purplle",
+    "companyType": "Unicorn",
+    "atsType": "Lever",
+    "atsSlug": "purplle",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.655Z"
+  },
+  {
+    "name": "Myntra",
+    "careersUrl": "https://boards.greenhouse.io/myntra",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "myntra",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.729Z"
+  },
+  {
+    "name": "Ajio",
+    "careersUrl": "https://boards.greenhouse.io/ajio",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "ajio",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.730Z"
+  },
+  {
+    "name": "Snapdeal",
+    "careersUrl": "https://boards.greenhouse.io/snapdeal",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "snapdeal",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.904Z"
+  },
+  {
+    "name": "Flipkart",
+    "careersUrl": "https://boards.greenhouse.io/flipkart",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "flipkart",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:54.058Z"
+  },
+  {
+    "name": "Airbnb",
+    "careersUrl": "https://airbnb.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Dropbox",
+    "careersUrl": "https://dropbox.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Segment",
+    "careersUrl": "https://segment.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "PagerDuty",
+    "careersUrl": "https://pagerduty.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Webflow",
+    "careersUrl": "https://webflow.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Retool",
+    "careersUrl": "https://retool.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Mixpanel",
+    "careersUrl": "https://mixpanel.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Heap",
+    "careersUrl": "https://heap.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Optimizely",
+    "careersUrl": "https://optimizely.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Rappi",
+    "careersUrl": "https://rappi.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Faire",
+    "careersUrl": "https://faire.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Brex",
+    "careersUrl": "https://brex.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Carta",
+    "careersUrl": "https://carta.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Flexport",
+    "careersUrl": "https://flexport.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "DoorDash",
+    "careersUrl": "https://doordash.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Zapier",
+    "careersUrl": "https://zapier.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Docker",
+    "careersUrl": "https://docker.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Cruise",
+    "careersUrl": "https://cruise.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Boom Supersonic",
+    "careersUrl": "https://boomsupersonic.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Helion",
+    "careersUrl": "https://helion.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Algolia",
+    "careersUrl": "https://algolia.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Clever",
+    "careersUrl": "https://clever.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Benchling",
+    "careersUrl": "https://benchling.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Deel",
+    "careersUrl": "https://deel.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Rippling",
+    "careersUrl": "https://rippling.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Papaya",
+    "careersUrl": "https://papaya.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Checkr",
+    "careersUrl": "https://checkr.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Scribd",
+    "careersUrl": "https://scribd.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Weebly",
+    "careersUrl": "https://weebly.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Heroku",
+    "careersUrl": "https://heroku.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Kovai",
+    "careersUrl": "https://kovai.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Orange",
+    "careersUrl": "https://orange.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Standard",
+    "careersUrl": "https://standard.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Automattic",
+    "careersUrl": "https://automattic.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Buffer",
+    "careersUrl": "https://buffer.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Ghost",
+    "careersUrl": "https://ghost.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Hotjar",
+    "careersUrl": "https://hotjar.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Doist",
+    "careersUrl": "https://doist.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "InVision",
+    "careersUrl": "https://invision.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Basecamp",
+    "careersUrl": "https://basecamp.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "DuckDuckGo",
+    "careersUrl": "https://duckduckgo.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "10up",
+    "careersUrl": "https://10up.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Aha!",
+    "careersUrl": "https://aha.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Articulate",
+    "careersUrl": "https://articulate.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Close",
+    "careersUrl": "https://close.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Collage",
+    "careersUrl": "https://collage.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "ConvertKit",
+    "careersUrl": "https://convertkit.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Expensify",
+    "careersUrl": "https://expensify.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Gitbook",
+    "careersUrl": "https://gitbook.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Help Scout",
+    "careersUrl": "https://helpscout.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Knack",
+    "careersUrl": "https://knack.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Lullabot",
+    "careersUrl": "https://lullabot.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Modern Tribe",
+    "careersUrl": "https://moderntribe.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Netlify",
+    "careersUrl": "https://netlify.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Olark",
+    "careersUrl": "https://olark.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Omnisend",
+    "careersUrl": "https://omnisend.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "OpenProject",
+    "careersUrl": "https://openproject.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "ScraperAPI",
+    "careersUrl": "https://scraperapi.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Shogun",
+    "careersUrl": "https://shogun.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "SimpleTexting",
+    "careersUrl": "https://simpletexting.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "SitePen",
+    "careersUrl": "https://sitepen.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Sourcegraph",
+    "careersUrl": "https://sourcegraph.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TaxJar",
+    "careersUrl": "https://taxjar.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Toptal",
+    "careersUrl": "https://toptal.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Toggl",
+    "careersUrl": "https://toggl.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "X-Team",
+    "careersUrl": "https://xteam.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "YouNeedABudget",
+    "careersUrl": "https://youneedabudget.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TailwindLabs",
+    "careersUrl": "https://tailwindlabs.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Laravel",
+    "careersUrl": "https://laravel.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Prisma",
+    "careersUrl": "https://prisma.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Supabase",
+    "careersUrl": "https://supabase.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "PlanetScale",
+    "careersUrl": "https://planetscale.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Fly.io",
+    "careersUrl": "https://flyio.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Render",
+    "careersUrl": "https://render.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Google",
+    "careersUrl": "https://boards.greenhouse.io/google",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "google",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.909Z"
+  },
+  {
+    "name": "Apple",
+    "careersUrl": "https://apple.myworkdayjobs.com/Careers",
+    "companyType": "Product",
+    "atsType": "Workday",
+    "atsSlug": "apple",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.507Z"
+  },
+  {
+    "name": "Microsoft",
+    "careersUrl": "https://boards.greenhouse.io/microsoft",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "microsoft",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.806Z"
+  },
+  {
+    "name": "Amazon",
+    "careersUrl": "https://jobs.lever.co/amazon",
+    "companyType": "Product",
+    "atsType": "Lever",
+    "atsSlug": "amazon",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.801Z"
+  },
+  {
+    "name": "Meta",
+    "careersUrl": "https://meta.myworkdayjobs.com/Careers",
+    "companyType": "Product",
+    "atsType": "Workday",
+    "atsSlug": "meta",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.940Z"
+  },
+  {
+    "name": "Adobe",
+    "careersUrl": "https://boards.greenhouse.io/adobe",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "adobe",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.922Z"
+  },
+  {
+    "name": "Salesforce",
+    "careersUrl": "https://boards.greenhouse.io/salesforce",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "salesforce",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.890Z"
+  },
+  {
+    "name": "Oracle",
+    "careersUrl": "https://boards.greenhouse.io/oracle",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "oracle",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.931Z"
+  },
+  {
+    "name": "Cisco",
+    "careersUrl": "https://boards.greenhouse.io/cisco",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "cisco",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:54.059Z"
+  },
+  {
+    "name": "Intel",
+    "careersUrl": "https://jobs.lever.co/intel",
+    "companyType": "Product",
+    "atsType": "Lever",
+    "atsSlug": "intel",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:54.014Z"
+  },
+  {
+    "name": "AMD",
+    "careersUrl": "https://amd.myworkdayjobs.com/Careers",
+    "companyType": "Product",
+    "atsType": "Workday",
+    "atsSlug": "amd",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:53.918Z"
+  },
+  {
+    "name": "NVIDIA",
+    "careersUrl": "https://jobs.lever.co/nvidia",
+    "companyType": "Product",
+    "atsType": "Lever",
+    "atsSlug": "nvidia",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:54.737Z"
+  },
+  {
+    "name": "IBM",
+    "careersUrl": "https://boards.greenhouse.io/ibm",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "ibm",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:54.600Z"
+  },
+  {
+    "name": "HP",
+    "careersUrl": "https://boards.greenhouse.io/hp",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "hp",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:54.146Z"
+  },
+  {
+    "name": "Dell",
+    "careersUrl": "https://dell.myworkdayjobs.com/Careers",
+    "companyType": "Product",
+    "atsType": "Workday",
+    "atsSlug": "dell",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:54.067Z"
+  },
+  {
+    "name": "Lenovo",
+    "careersUrl": "https://boards.greenhouse.io/lenovo",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "lenovo",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:54.267Z"
+  },
+  {
+    "name": "Samsung",
+    "careersUrl": "https://boards.greenhouse.io/samsung",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "samsung",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:54.268Z"
+  },
+  {
+    "name": "LG",
+    "careersUrl": "https://boards.greenhouse.io/lg",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "lg",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:54.290Z"
+  },
+  {
+    "name": "Sony",
+    "careersUrl": "https://sony.myworkdayjobs.com/Careers",
+    "companyType": "Product",
+    "atsType": "Workday",
+    "atsSlug": "sony",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:54.068Z"
+  },
+  {
+    "name": "Panasonic",
+    "careersUrl": "https://boards.greenhouse.io/panasonic",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "panasonic",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:54.293Z"
+  },
+  {
+    "name": "Tesla",
+    "careersUrl": "https://boards.greenhouse.io/tesla",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "tesla",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:54.296Z"
+  },
+  {
+    "name": "SpaceX",
+    "careersUrl": "https://spacex.myworkdayjobs.com/Careers",
+    "companyType": "Product",
+    "atsType": "Workday",
+    "atsSlug": "spacex",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:54.121Z"
+  },
+  {
+    "name": "Boeing",
+    "careersUrl": "https://boards.greenhouse.io/boeing",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "boeing",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:54.318Z"
+  },
+  {
+    "name": "Siemens",
+    "careersUrl": "https://jobs.lever.co/siemens",
+    "companyType": "Product",
+    "atsType": "Lever",
+    "atsSlug": "siemens",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:54.297Z"
+  },
+  {
+    "name": "GE",
+    "careersUrl": "https://boards.greenhouse.io/ge",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "ge",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:54.317Z"
+  },
+  {
+    "name": "Philips",
+    "careersUrl": "https://jobs.lever.co/philips",
+    "companyType": "Product",
+    "atsType": "Lever",
+    "atsSlug": "philips",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:54.603Z"
+  },
+  {
+    "name": "Bosch",
+    "careersUrl": "https://bosch.myworkdayjobs.com/Careers",
+    "companyType": "Product",
+    "atsType": "Workday",
+    "atsSlug": "bosch",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:54.300Z"
+  },
+  {
+    "name": "ABB",
+    "careersUrl": "https://boards.greenhouse.io/abb",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "abb",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:54.924Z"
+  },
+  {
+    "name": "Schneider Electric",
+    "careersUrl": "https://jobs.lever.co/schneiderelectric",
+    "companyType": "Product",
+    "atsType": "Lever",
+    "atsSlug": "schneiderelectric",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:54.403Z"
+  },
+  {
+    "name": "Eaton",
+    "careersUrl": "https://jobs.lever.co/eaton",
+    "companyType": "Product",
+    "atsType": "Lever",
+    "atsSlug": "eaton",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:54.419Z"
+  },
+  {
+    "name": "Honeywell",
+    "careersUrl": "https://boards.greenhouse.io/honeywell",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "honeywell",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:54.485Z"
+  },
+  {
+    "name": "Zoom",
+    "careersUrl": "https://boards.greenhouse.io/zoom",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "zoom",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:54.526Z"
+  },
+  {
+    "name": "Slack",
+    "careersUrl": "https://boards.greenhouse.io/slack",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "slack",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:54.677Z"
+  },
+  {
+    "name": "Atlassian",
+    "careersUrl": "https://boards.greenhouse.io/atlassian",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "atlassian",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:54.691Z"
+  },
+  {
+    "name": "Jira",
+    "careersUrl": "https://boards.greenhouse.io/jira",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "jira",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:55.169Z"
+  },
+  {
+    "name": "Trello",
+    "careersUrl": "https://boards.greenhouse.io/trello",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "trello",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:55.183Z"
+  },
+  {
+    "name": "Confluence",
+    "careersUrl": "https://confluence.myworkdayjobs.com/Careers",
+    "companyType": "Product",
+    "atsType": "Workday",
+    "atsSlug": "confluence",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:54.483Z"
+  },
+  {
+    "name": "GitHub",
+    "careersUrl": "https://jobs.lever.co/github",
+    "companyType": "Product",
+    "atsType": "Lever",
+    "atsSlug": "github",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:54.678Z"
+  },
+  {
+    "name": "Bitbucket",
+    "careersUrl": "https://jobs.lever.co/bitbucket",
+    "companyType": "Product",
+    "atsType": "Lever",
+    "atsSlug": "bitbucket",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:54.676Z"
+  },
+  {
+    "name": "Box",
+    "careersUrl": "https://box.myworkdayjobs.com/Careers",
+    "companyType": "Product",
+    "atsType": "Workday",
+    "atsSlug": "box",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:54.364Z"
+  },
+  {
+    "name": "Notion",
+    "careersUrl": "https://boards.greenhouse.io/notion",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "notion",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:55.184Z"
+  },
+  {
+    "name": "Airtable",
+    "careersUrl": "https://boards.greenhouse.io/airtable",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "airtable",
+    "hiringStatus": "Surge",
+    "lastCrawlTime": "2026-06-21T04:41:54.894Z"
+  },
+  {
+    "name": "Monday",
+    "careersUrl": "https://monday.myworkdayjobs.com/Careers",
+    "companyType": "Product",
+    "atsType": "Workday",
+    "atsSlug": "monday",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:54.531Z"
+  },
+  {
+    "name": "Smartsheet",
+    "careersUrl": "https://boards.greenhouse.io/smartsheet",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "smartsheet",
+    "hiringStatus": "Active",
+    "lastCrawlTime": "2026-06-21T04:41:55.066Z"
+  },
+  {
+    "name": "Wrike",
+    "careersUrl": "https://wrike.myworkdayjobs.com/Careers",
+    "companyType": "Product",
+    "atsType": "Workday",
+    "atsSlug": "wrike",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:54.682Z"
+  },
+  {
+    "name": "TCS",
+    "careersUrl": "https://careers.smartrecruiters.com/tcs",
+    "companyType": "Service",
+    "atsType": "SmartRecruiters",
+    "atsSlug": "tcs",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:56.965Z"
+  },
+  {
+    "name": "Infosys",
+    "careersUrl": "https://infosys.bamboohr.com/jobs/",
+    "companyType": "Service",
+    "atsType": "BambooHR",
+    "atsSlug": "infosys",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:54.526Z"
+  },
+  {
+    "name": "Wipro",
+    "careersUrl": "https://wipro.bamboohr.com/jobs/",
+    "companyType": "Service",
+    "atsType": "BambooHR",
+    "atsSlug": "wipro",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:54.526Z"
+  },
+  {
+    "name": "Cognizant",
+    "careersUrl": "https://cognizant.bamboohr.com/jobs/",
+    "companyType": "Service",
+    "atsType": "BambooHR",
+    "atsSlug": "cognizant",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:54.526Z"
+  },
+  {
+    "name": "Accenture",
+    "careersUrl": "https://accenture.teamtailor.com/jobs",
+    "companyType": "Service",
+    "atsType": "Teamtailor",
+    "atsSlug": "accenture",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:56.135Z"
+  },
+  {
+    "name": "Capgemini",
+    "careersUrl": "https://capgemini.teamtailor.com/jobs",
+    "companyType": "Service",
+    "atsType": "Teamtailor",
+    "atsSlug": "capgemini",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:55.857Z"
+  },
+  {
+    "name": "Tech Mahindra",
+    "careersUrl": "https://careers.smartrecruiters.com/techmahindra",
+    "companyType": "Service",
+    "atsType": "SmartRecruiters",
+    "atsSlug": "techmahindra",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:56.246Z"
+  },
+  {
+    "name": "LTIMindtree",
+    "careersUrl": "https://ltimindtree.teamtailor.com/jobs",
+    "companyType": "Service",
+    "atsType": "Teamtailor",
+    "atsSlug": "ltimindtree",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:57.359Z"
+  },
+  {
+    "name": "HCL",
+    "careersUrl": "https://careers.smartrecruiters.com/hcl",
+    "companyType": "Service",
+    "atsType": "SmartRecruiters",
+    "atsSlug": "hcl",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:56.278Z"
+  },
+  {
+    "name": "DXC",
+    "careersUrl": "https://dxc.bamboohr.com/jobs/",
+    "companyType": "Service",
+    "atsType": "BambooHR",
+    "atsSlug": "dxc",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:54.677Z"
+  },
+  {
+    "name": "Genpact",
+    "careersUrl": "https://careers.smartrecruiters.com/genpact",
+    "companyType": "Service",
+    "atsType": "SmartRecruiters",
+    "atsSlug": "genpact",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:57.137Z"
+  },
+  {
+    "name": "IBM Services",
+    "careersUrl": "https://careers.smartrecruiters.com/ibmservices",
+    "companyType": "Service",
+    "atsType": "SmartRecruiters",
+    "atsSlug": "ibmservices",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:56.248Z"
+  },
+  {
+    "name": "Deloitte",
+    "careersUrl": "https://deloitte.bamboohr.com/jobs/",
+    "companyType": "Service",
+    "atsType": "BambooHR",
+    "atsSlug": "deloitte",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:54.682Z"
+  },
+  {
+    "name": "PwC",
+    "careersUrl": "https://pwc.bamboohr.com/jobs/",
+    "companyType": "Service",
+    "atsType": "BambooHR",
+    "atsSlug": "pwc",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:54.682Z"
+  },
+  {
+    "name": "EY",
+    "careersUrl": "https://careers.smartrecruiters.com/ey",
+    "companyType": "Service",
+    "atsType": "SmartRecruiters",
+    "atsSlug": "ey",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:56.249Z"
+  },
+  {
+    "name": "KPMG",
+    "careersUrl": "https://careers.smartrecruiters.com/kpmg",
+    "companyType": "Service",
+    "atsType": "SmartRecruiters",
+    "atsSlug": "kpmg",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:56.522Z"
+  },
+  {
+    "name": "McKinsey",
+    "careersUrl": "https://mckinsey.bamboohr.com/jobs/",
+    "companyType": "Service",
+    "atsType": "BambooHR",
+    "atsSlug": "mckinsey",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:54.737Z"
+  },
+  {
+    "name": "BCG",
+    "careersUrl": "https://bcg.teamtailor.com/jobs",
+    "companyType": "Service",
+    "atsType": "Teamtailor",
+    "atsSlug": "bcg",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:56.798Z"
+  },
+  {
+    "name": "Bain",
+    "careersUrl": "https://careers.smartrecruiters.com/bain",
+    "companyType": "Service",
+    "atsType": "SmartRecruiters",
+    "atsSlug": "bain",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:56.659Z"
+  },
+  {
+    "name": "Booz Allen",
+    "careersUrl": "https://careers.smartrecruiters.com/boozallen",
+    "companyType": "Service",
+    "atsType": "SmartRecruiters",
+    "atsSlug": "boozallen",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:56.548Z"
+  },
+  {
+    "name": "SAIC",
+    "careersUrl": "https://saic.bamboohr.com/jobs/",
+    "companyType": "Service",
+    "atsType": "BambooHR",
+    "atsSlug": "saic",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:55.066Z"
+  },
+  {
+    "name": "Leidos",
+    "careersUrl": "https://leidos.teamtailor.com/jobs",
+    "companyType": "Service",
+    "atsType": "Teamtailor",
+    "atsSlug": "leidos",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:57.357Z"
+  },
+  {
+    "name": "CACI",
+    "careersUrl": "https://caci.teamtailor.com/jobs",
+    "companyType": "Service",
+    "atsType": "Teamtailor",
+    "atsSlug": "caci",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:57.691Z"
+  },
+  {
+    "name": "ManTech",
+    "careersUrl": "https://mantech.teamtailor.com/jobs",
+    "companyType": "Service",
+    "atsType": "Teamtailor",
+    "atsSlug": "mantech",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:57.756Z"
+  },
+  {
+    "name": "Unisys",
+    "careersUrl": "https://careers.smartrecruiters.com/unisys",
+    "companyType": "Service",
+    "atsType": "SmartRecruiters",
+    "atsSlug": "unisys",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:57.083Z"
+  },
+  {
+    "name": "Conduent",
+    "careersUrl": "https://conduent.teamtailor.com/jobs",
+    "companyType": "Service",
+    "atsType": "Teamtailor",
+    "atsSlug": "conduent",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:57.358Z"
+  },
+  {
+    "name": "Concentrix",
+    "careersUrl": "https://concentrix.bamboohr.com/jobs/",
+    "companyType": "Service",
+    "atsType": "BambooHR",
+    "atsSlug": "concentrix",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:56.135Z"
+  },
+  {
+    "name": "Teleperformance",
+    "careersUrl": "https://teleperformance.bamboohr.com/jobs/",
+    "companyType": "Service",
+    "atsType": "BambooHR",
+    "atsSlug": "teleperformance",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:56.135Z"
+  },
+  {
+    "name": "Webhelp",
+    "careersUrl": "https://careers.smartrecruiters.com/webhelp",
+    "companyType": "Service",
+    "atsType": "SmartRecruiters",
+    "atsSlug": "webhelp",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:57.137Z"
+  },
+  {
+    "name": "Majorel",
+    "careersUrl": "https://majorel.teamtailor.com/jobs",
+    "companyType": "Service",
+    "atsType": "Teamtailor",
+    "atsSlug": "majorel",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:57.356Z"
+  },
+  {
+    "name": "TaskUs",
+    "careersUrl": "https://taskus.bamboohr.com/jobs/",
+    "companyType": "Service",
+    "atsType": "BambooHR",
+    "atsSlug": "taskus",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:56.248Z"
+  },
+  {
+    "name": "VXI",
+    "careersUrl": "https://vxi.teamtailor.com/jobs",
+    "companyType": "Service",
+    "atsType": "Teamtailor",
+    "atsSlug": "vxi",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:00.826Z"
+  },
+  {
+    "name": "Alorica",
+    "careersUrl": "https://alorica.teamtailor.com/jobs",
+    "companyType": "Service",
+    "atsType": "Teamtailor",
+    "atsSlug": "alorica",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:57.756Z"
+  },
+  {
+    "name": "Sitel",
+    "careersUrl": "https://careers.smartrecruiters.com/sitel",
+    "companyType": "Service",
+    "atsType": "SmartRecruiters",
+    "atsSlug": "sitel",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:56.957Z"
+  },
+  {
+    "name": "Sykes",
+    "careersUrl": "https://sykes.teamtailor.com/jobs",
+    "companyType": "Service",
+    "atsType": "Teamtailor",
+    "atsSlug": "sykes",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:58.383Z"
+  },
+  {
+    "name": "UST Global",
+    "careersUrl": "https://careers.smartrecruiters.com/ustglobal",
+    "companyType": "Service",
+    "atsType": "SmartRecruiters",
+    "atsSlug": "ustglobal",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:56.966Z"
+  },
+  {
+    "name": "EPAM",
+    "careersUrl": "https://epam.bamboohr.com/jobs/",
+    "companyType": "Service",
+    "atsType": "BambooHR",
+    "atsSlug": "epam",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:56.659Z"
+  },
+  {
+    "name": "Endava",
+    "careersUrl": "https://endava.teamtailor.com/jobs",
+    "companyType": "Service",
+    "atsType": "Teamtailor",
+    "atsSlug": "endava",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:58.100Z"
+  },
+  {
+    "name": "Grid Dynamics",
+    "careersUrl": "https://griddynamics.teamtailor.com/jobs",
+    "companyType": "Service",
+    "atsType": "Teamtailor",
+    "atsSlug": "griddynamics",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:58.086Z"
+  },
+  {
+    "name": "Luxoft",
+    "careersUrl": "https://luxoft.bamboohr.com/jobs/",
+    "companyType": "Service",
+    "atsType": "BambooHR",
+    "atsSlug": "luxoft",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:56.957Z"
+  },
+  {
+    "name": "Globant",
+    "careersUrl": "https://globant.teamtailor.com/jobs",
+    "companyType": "Service",
+    "atsType": "Teamtailor",
+    "atsSlug": "globant",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:00.727Z"
+  },
+  {
+    "name": "Nagarro",
+    "careersUrl": "https://nagarro.teamtailor.com/jobs",
+    "companyType": "Service",
+    "atsType": "Teamtailor",
+    "atsSlug": "nagarro",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:00.729Z"
+  },
+  {
+    "name": "Perficient",
+    "careersUrl": "https://perficient.bamboohr.com/jobs/",
+    "companyType": "Service",
+    "atsType": "BambooHR",
+    "atsSlug": "perficient",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:56.966Z"
+  },
+  {
+    "name": "Sogeti",
+    "careersUrl": "https://careers.smartrecruiters.com/sogeti",
+    "companyType": "Service",
+    "atsType": "SmartRecruiters",
+    "atsSlug": "sogeti",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:57.547Z"
+  },
+  {
+    "name": "Virtusa",
+    "careersUrl": "https://virtusa.bamboohr.com/jobs/",
+    "companyType": "Service",
+    "atsType": "BambooHR",
+    "atsSlug": "virtusa",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:57.083Z"
+  },
+  {
+    "name": "Zensar",
+    "careersUrl": "https://zensar.teamtailor.com/jobs",
+    "companyType": "Service",
+    "atsType": "Teamtailor",
+    "atsSlug": "zensar",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:00.849Z"
+  },
+  {
+    "name": "Mindtree",
+    "careersUrl": "https://careers.smartrecruiters.com/mindtree",
+    "companyType": "Service",
+    "atsType": "SmartRecruiters",
+    "atsSlug": "mindtree",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:58.369Z"
+  },
+  {
+    "name": "Hexaware",
+    "careersUrl": "https://hexaware.teamtailor.com/jobs",
+    "companyType": "Service",
+    "atsType": "Teamtailor",
+    "atsSlug": "hexaware",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:00.836Z"
+  },
+  {
+    "name": "Jupiter",
+    "careersUrl": "https://jupiter.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Fi Money",
+    "careersUrl": "https://fimoney.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Slice",
+    "careersUrl": "https://slice.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Khatabook",
+    "careersUrl": "https://khatabook.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "OneCard",
+    "careersUrl": "https://onecard.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Rupeek",
+    "careersUrl": "https://rupeek.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Niyo",
+    "careersUrl": "https://niyo.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Uni Cards",
+    "careersUrl": "https://unicards.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Jar",
+    "careersUrl": "https://jar.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Fi",
+    "careersUrl": "https://fi.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "KreditBee",
+    "careersUrl": "https://kreditbee.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Navi",
+    "careersUrl": "https://navi.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "MoneyView",
+    "careersUrl": "https://moneyview.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Avail Finance",
+    "careersUrl": "https://availfinance.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "EarlySalary",
+    "careersUrl": "https://earlysalary.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "LazyPay",
+    "careersUrl": "https://lazypay.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Simple",
+    "careersUrl": "https://simple.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Bullet",
+    "careersUrl": "https://bullet.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Freo",
+    "careersUrl": "https://freo.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Dunzo",
+    "careersUrl": "https://dunzo.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Shadowfax",
+    "careersUrl": "https://shadowfax.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Porter",
+    "careersUrl": "https://porter.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Blowhorn",
+    "careersUrl": "https://blowhorn.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Letstransport",
+    "careersUrl": "https://letstransport.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Shiprocket",
+    "careersUrl": "https://shiprocket.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Pickrr",
+    "careersUrl": "https://pickrr.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "NimbusPost",
+    "careersUrl": "https://nimbuspost.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "LogiNext",
+    "careersUrl": "https://loginext.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Phable",
+    "careersUrl": "https://phable.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "HealthifyMe",
+    "careersUrl": "https://healthifyme.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Fittr",
+    "careersUrl": "https://fittr.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Cult.fit",
+    "careersUrl": "https://cultfit.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "HealthKart",
+    "careersUrl": "https://healthkart.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Tatacliq",
+    "careersUrl": "https://tatacliq.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Limeroad",
+    "careersUrl": "https://limeroad.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Koovs",
+    "careersUrl": "https://koovs.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "Zivame",
+    "careersUrl": "https://zivame.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-343",
+    "careersUrl": "https://jobs.lever.co/techcorp343",
+    "companyType": "Product",
+    "atsType": "Lever",
+    "atsSlug": "techcorp343",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:57.799Z"
+  },
+  {
+    "name": "TechCorp-344",
+    "careersUrl": "https://techcorp344.bamboohr.com/jobs/",
+    "companyType": "Service",
+    "atsType": "BambooHR",
+    "atsSlug": "techcorp344",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:57.357Z"
+  },
+  {
+    "name": "TechCorp-345",
+    "careersUrl": "https://boards.greenhouse.io/techcorp345",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "techcorp345",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:57.801Z"
+  },
+  {
+    "name": "TechCorp-346",
+    "careersUrl": "https://techcorp346.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-347",
+    "careersUrl": "https://techcorp347.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-348",
+    "careersUrl": "https://jobs.ashbyhq.com/techcorp348",
+    "companyType": "AI-Startup",
+    "atsType": "Ashby",
+    "atsSlug": "techcorp348",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:00.590Z"
+  },
+  {
+    "name": "TechCorp-349",
+    "careersUrl": "https://techcorp349.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-350",
+    "careersUrl": "https://boards.greenhouse.io/techcorp350",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "techcorp350",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:57.800Z"
+  },
+  {
+    "name": "TechCorp-351",
+    "careersUrl": "https://techcorp351.teamtailor.com/jobs",
+    "companyType": "Service",
+    "atsType": "Teamtailor",
+    "atsSlug": "techcorp351",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:01.128Z"
+  },
+  {
+    "name": "TechCorp-352",
+    "careersUrl": "https://jobs.lever.co/techcorp352",
+    "companyType": "Unicorn",
+    "atsType": "Lever",
+    "atsSlug": "techcorp352",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:57.921Z"
+  },
+  {
+    "name": "TechCorp-353",
+    "careersUrl": "https://techcorp353.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-354",
+    "careersUrl": "https://techcorp354.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-355",
+    "careersUrl": "https://jobs.ashbyhq.com/techcorp355",
+    "companyType": "AI-Startup",
+    "atsType": "Ashby",
+    "atsSlug": "techcorp355",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:00.851Z"
+  },
+  {
+    "name": "TechCorp-356",
+    "careersUrl": "https://techcorp356.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-357",
+    "careersUrl": "https://jobs.lever.co/techcorp357",
+    "companyType": "Product",
+    "atsType": "Lever",
+    "atsSlug": "techcorp357",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:58.268Z"
+  },
+  {
+    "name": "TechCorp-358",
+    "careersUrl": "https://careers.smartrecruiters.com/techcorp358",
+    "companyType": "Service",
+    "atsType": "SmartRecruiters",
+    "atsSlug": "techcorp358",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:58.507Z"
+  },
+  {
+    "name": "TechCorp-359",
+    "careersUrl": "https://techcorp359.myworkdayjobs.com/Careers",
+    "companyType": "Unicorn",
+    "atsType": "Workday",
+    "atsSlug": "techcorp359",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:59.402Z"
+  },
+  {
+    "name": "TechCorp-360",
+    "careersUrl": "https://techcorp360.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-361",
+    "careersUrl": "https://techcorp361.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-362",
+    "careersUrl": "https://jobs.lever.co/techcorp362",
+    "companyType": "AI-Startup",
+    "atsType": "Lever",
+    "atsSlug": "techcorp362",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:58.333Z"
+  },
+  {
+    "name": "TechCorp-363",
+    "careersUrl": "https://techcorp363.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-364",
+    "careersUrl": "https://boards.greenhouse.io/techcorp364",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "techcorp364",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:58.331Z"
+  },
+  {
+    "name": "TechCorp-365",
+    "careersUrl": "https://techcorp365.bamboohr.com/jobs/",
+    "companyType": "Service",
+    "atsType": "BambooHR",
+    "atsSlug": "techcorp365",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:57.921Z"
+  },
+  {
+    "name": "TechCorp-366",
+    "careersUrl": "https://boards.greenhouse.io/techcorp366",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "techcorp366",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:58.572Z"
+  },
+  {
+    "name": "TechCorp-367",
+    "careersUrl": "https://techcorp367.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-368",
+    "careersUrl": "https://techcorp368.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-369",
+    "careersUrl": "https://boards.greenhouse.io/techcorp369",
+    "companyType": "AI-Startup",
+    "atsType": "Greenhouse",
+    "atsSlug": "techcorp369",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:58.782Z"
+  },
+  {
+    "name": "TechCorp-370",
+    "careersUrl": "https://techcorp370.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-371",
+    "careersUrl": "https://boards.greenhouse.io/techcorp371",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "techcorp371",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:58.877Z"
+  },
+  {
+    "name": "TechCorp-372",
+    "careersUrl": "https://techcorp372.bamboohr.com/jobs/",
+    "companyType": "Service",
+    "atsType": "BambooHR",
+    "atsSlug": "techcorp372",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:58.268Z"
+  },
+  {
+    "name": "TechCorp-373",
+    "careersUrl": "https://techcorp373.myworkdayjobs.com/Careers",
+    "companyType": "Unicorn",
+    "atsType": "Workday",
+    "atsSlug": "techcorp373",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:00.709Z"
+  },
+  {
+    "name": "TechCorp-374",
+    "careersUrl": "https://techcorp374.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-375",
+    "careersUrl": "https://techcorp375.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-376",
+    "careersUrl": "https://jobs.ashbyhq.com/techcorp376",
+    "companyType": "AI-Startup",
+    "atsType": "Ashby",
+    "atsSlug": "techcorp376",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:00.775Z"
+  },
+  {
+    "name": "TechCorp-377",
+    "careersUrl": "https://techcorp377.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-378",
+    "careersUrl": "https://boards.greenhouse.io/techcorp378",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "techcorp378",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:59.396Z"
+  },
+  {
+    "name": "TechCorp-379",
+    "careersUrl": "https://techcorp379.bamboohr.com/jobs/",
+    "companyType": "Service",
+    "atsType": "BambooHR",
+    "atsSlug": "techcorp379",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:58.369Z"
+  },
+  {
+    "name": "TechCorp-380",
+    "careersUrl": "https://jobs.lever.co/techcorp380",
+    "companyType": "Unicorn",
+    "atsType": "Lever",
+    "atsSlug": "techcorp380",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:59.516Z"
+  },
+  {
+    "name": "TechCorp-381",
+    "careersUrl": "https://techcorp381.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-382",
+    "careersUrl": "https://techcorp382.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-383",
+    "careersUrl": "https://jobs.ashbyhq.com/techcorp383",
+    "companyType": "AI-Startup",
+    "atsType": "Ashby",
+    "atsSlug": "techcorp383",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:00.850Z"
+  },
+  {
+    "name": "TechCorp-384",
+    "careersUrl": "https://techcorp384.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-385",
+    "careersUrl": "https://jobs.lever.co/techcorp385",
+    "companyType": "Product",
+    "atsType": "Lever",
+    "atsSlug": "techcorp385",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:41:59.839Z"
+  },
+  {
+    "name": "TechCorp-386",
+    "careersUrl": "https://careers.smartrecruiters.com/techcorp386",
+    "companyType": "Service",
+    "atsType": "SmartRecruiters",
+    "atsSlug": "techcorp386",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:00.162Z"
+  },
+  {
+    "name": "TechCorp-387",
+    "careersUrl": "https://boards.greenhouse.io/techcorp387",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "techcorp387",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:00.216Z"
+  },
+  {
+    "name": "TechCorp-388",
+    "careersUrl": "https://techcorp388.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-389",
+    "careersUrl": "https://techcorp389.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-390",
+    "careersUrl": "https://jobs.ashbyhq.com/techcorp390",
+    "companyType": "AI-Startup",
+    "atsType": "Ashby",
+    "atsSlug": "techcorp390",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:00.837Z"
+  },
+  {
+    "name": "TechCorp-391",
+    "careersUrl": "https://techcorp391.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-392",
+    "careersUrl": "https://boards.greenhouse.io/techcorp392",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "techcorp392",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:00.639Z"
+  },
+  {
+    "name": "TechCorp-393",
+    "careersUrl": "https://careers.smartrecruiters.com/techcorp393",
+    "companyType": "Service",
+    "atsType": "SmartRecruiters",
+    "atsSlug": "techcorp393",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:00.627Z"
+  },
+  {
+    "name": "TechCorp-394",
+    "careersUrl": "https://techcorp394.myworkdayjobs.com/Careers",
+    "companyType": "Unicorn",
+    "atsType": "Workday",
+    "atsSlug": "techcorp394",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:00.435Z"
+  },
+  {
+    "name": "TechCorp-395",
+    "careersUrl": "https://techcorp395.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-396",
+    "careersUrl": "https://techcorp396.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-397",
+    "careersUrl": "https://boards.greenhouse.io/techcorp397",
+    "companyType": "AI-Startup",
+    "atsType": "Greenhouse",
+    "atsSlug": "techcorp397",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:00.705Z"
+  },
+  {
+    "name": "TechCorp-398",
+    "careersUrl": "https://techcorp398.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-399",
+    "careersUrl": "https://boards.greenhouse.io/techcorp399",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "techcorp399",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:00.712Z"
+  },
+  {
+    "name": "TechCorp-400",
+    "careersUrl": "https://techcorp400.teamtailor.com/jobs",
+    "companyType": "Service",
+    "atsType": "Teamtailor",
+    "atsSlug": "techcorp400",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:01.289Z"
+  },
+  {
+    "name": "TechCorp-401",
+    "careersUrl": "https://boards.greenhouse.io/techcorp401",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "techcorp401",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:00.875Z"
+  },
+  {
+    "name": "TechCorp-402",
+    "careersUrl": "https://techcorp402.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-403",
+    "careersUrl": "https://techcorp403.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-404",
+    "careersUrl": "https://boards.greenhouse.io/techcorp404",
+    "companyType": "AI-Startup",
+    "atsType": "Greenhouse",
+    "atsSlug": "techcorp404",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:01.030Z"
+  },
+  {
+    "name": "TechCorp-405",
+    "careersUrl": "https://techcorp405.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-406",
+    "careersUrl": "https://boards.greenhouse.io/techcorp406",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "techcorp406",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:01.235Z"
+  },
+  {
+    "name": "TechCorp-407",
+    "careersUrl": "https://techcorp407.teamtailor.com/jobs",
+    "companyType": "Service",
+    "atsType": "Teamtailor",
+    "atsSlug": "techcorp407",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:01.645Z"
+  },
+  {
+    "name": "TechCorp-408",
+    "careersUrl": "https://boards.greenhouse.io/techcorp408",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "techcorp408",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:01.117Z"
+  },
+  {
+    "name": "TechCorp-409",
+    "careersUrl": "https://techcorp409.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-410",
+    "careersUrl": "https://techcorp410.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-411",
+    "careersUrl": "https://jobs.lever.co/techcorp411",
+    "companyType": "AI-Startup",
+    "atsType": "Lever",
+    "atsSlug": "techcorp411",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:01.118Z"
+  },
+  {
+    "name": "TechCorp-412",
+    "careersUrl": "https://techcorp412.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-413",
+    "careersUrl": "https://boards.greenhouse.io/techcorp413",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "techcorp413",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:01.117Z"
+  },
+  {
+    "name": "TechCorp-414",
+    "careersUrl": "https://techcorp414.teamtailor.com/jobs",
+    "companyType": "Service",
+    "atsType": "Teamtailor",
+    "atsSlug": "techcorp414",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:01.850Z"
+  },
+  {
+    "name": "TechCorp-415",
+    "careersUrl": "https://boards.greenhouse.io/techcorp415",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "techcorp415",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:01.133Z"
+  },
+  {
+    "name": "TechCorp-416",
+    "careersUrl": "https://techcorp416.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-417",
+    "careersUrl": "https://techcorp417.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-418",
+    "careersUrl": "https://boards.greenhouse.io/techcorp418",
+    "companyType": "AI-Startup",
+    "atsType": "Greenhouse",
+    "atsSlug": "techcorp418",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:01.442Z"
+  },
+  {
+    "name": "TechCorp-419",
+    "careersUrl": "https://techcorp419.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-420",
+    "careersUrl": "https://jobs.lever.co/techcorp420",
+    "companyType": "Product",
+    "atsType": "Lever",
+    "atsSlug": "techcorp420",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:01.165Z"
+  },
+  {
+    "name": "TechCorp-421",
+    "careersUrl": "https://techcorp421.teamtailor.com/jobs",
+    "companyType": "Service",
+    "atsType": "Teamtailor",
+    "atsSlug": "techcorp421",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:01.645Z"
+  },
+  {
+    "name": "TechCorp-422",
+    "careersUrl": "https://boards.greenhouse.io/techcorp422",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "techcorp422",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:01.513Z"
+  },
+  {
+    "name": "TechCorp-423",
+    "careersUrl": "https://techcorp423.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-424",
+    "careersUrl": "https://techcorp424.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-425",
+    "careersUrl": "https://boards.greenhouse.io/techcorp425",
+    "companyType": "AI-Startup",
+    "atsType": "Greenhouse",
+    "atsSlug": "techcorp425",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:01.488Z"
+  },
+  {
+    "name": "TechCorp-426",
+    "careersUrl": "https://techcorp426.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-427",
+    "careersUrl": "https://boards.greenhouse.io/techcorp427",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "techcorp427",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:01.491Z"
+  },
+  {
+    "name": "TechCorp-428",
+    "careersUrl": "https://techcorp428.teamtailor.com/jobs",
+    "companyType": "Service",
+    "atsType": "Teamtailor",
+    "atsSlug": "techcorp428",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:01.731Z"
+  },
+  {
+    "name": "TechCorp-429",
+    "careersUrl": "https://techcorp429.myworkdayjobs.com/Careers",
+    "companyType": "Unicorn",
+    "atsType": "Workday",
+    "atsSlug": "techcorp429",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:01.119Z"
+  },
+  {
+    "name": "TechCorp-430",
+    "careersUrl": "https://techcorp430.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-431",
+    "careersUrl": "https://techcorp431.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-432",
+    "careersUrl": "https://boards.greenhouse.io/techcorp432",
+    "companyType": "AI-Startup",
+    "atsType": "Greenhouse",
+    "atsSlug": "techcorp432",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:01.373Z"
+  },
+  {
+    "name": "TechCorp-433",
+    "careersUrl": "https://techcorp433.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-434",
+    "careersUrl": "https://boards.greenhouse.io/techcorp434",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "techcorp434",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:01.443Z"
+  },
+  {
+    "name": "TechCorp-435",
+    "careersUrl": "https://careers.smartrecruiters.com/techcorp435",
+    "companyType": "Service",
+    "atsType": "SmartRecruiters",
+    "atsSlug": "techcorp435",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:01.729Z"
+  },
+  {
+    "name": "TechCorp-436",
+    "careersUrl": "https://boards.greenhouse.io/techcorp436",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "techcorp436",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:01.446Z"
+  },
+  {
+    "name": "TechCorp-437",
+    "careersUrl": "https://techcorp437.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-438",
+    "careersUrl": "https://techcorp438.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-439",
+    "careersUrl": "https://boards.greenhouse.io/techcorp439",
+    "companyType": "AI-Startup",
+    "atsType": "Greenhouse",
+    "atsSlug": "techcorp439",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:01.490Z"
+  },
+  {
+    "name": "TechCorp-440",
+    "careersUrl": "https://techcorp440.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-441",
+    "careersUrl": "https://boards.greenhouse.io/techcorp441",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "techcorp441",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:01.698Z"
+  },
+  {
+    "name": "TechCorp-442",
+    "careersUrl": "https://careers.smartrecruiters.com/techcorp442",
+    "companyType": "Service",
+    "atsType": "SmartRecruiters",
+    "atsSlug": "techcorp442",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:01.490Z"
+  },
+  {
+    "name": "TechCorp-443",
+    "careersUrl": "https://boards.greenhouse.io/techcorp443",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "techcorp443",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:01.490Z"
+  },
+  {
+    "name": "TechCorp-444",
+    "careersUrl": "https://techcorp444.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-445",
+    "careersUrl": "https://techcorp445.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-446",
+    "careersUrl": "https://jobs.ashbyhq.com/techcorp446",
+    "companyType": "AI-Startup",
+    "atsType": "Ashby",
+    "atsSlug": "techcorp446",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:01.445Z"
+  },
+  {
+    "name": "TechCorp-447",
+    "careersUrl": "https://techcorp447.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-448",
+    "careersUrl": "https://techcorp448.myworkdayjobs.com/Careers",
+    "companyType": "Product",
+    "atsType": "Workday",
+    "atsSlug": "techcorp448",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:01.369Z"
+  },
+  {
+    "name": "TechCorp-449",
+    "careersUrl": "https://techcorp449.teamtailor.com/jobs",
+    "companyType": "Service",
+    "atsType": "Teamtailor",
+    "atsSlug": "techcorp449",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:02.140Z"
+  },
+  {
+    "name": "TechCorp-450",
+    "careersUrl": "https://boards.greenhouse.io/techcorp450",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "techcorp450",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:01.695Z"
+  },
+  {
+    "name": "TechCorp-451",
+    "careersUrl": "https://techcorp451.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-452",
+    "careersUrl": "https://techcorp452.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-453",
+    "careersUrl": "https://jobs.lever.co/techcorp453",
+    "companyType": "AI-Startup",
+    "atsType": "Lever",
+    "atsSlug": "techcorp453",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:01.693Z"
+  },
+  {
+    "name": "TechCorp-454",
+    "careersUrl": "https://techcorp454.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-455",
+    "careersUrl": "https://techcorp455.myworkdayjobs.com/Careers",
+    "companyType": "Product",
+    "atsType": "Workday",
+    "atsSlug": "techcorp455",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:02.915Z"
+  },
+  {
+    "name": "TechCorp-456",
+    "careersUrl": "https://careers.smartrecruiters.com/techcorp456",
+    "companyType": "Service",
+    "atsType": "SmartRecruiters",
+    "atsSlug": "techcorp456",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:01.934Z"
+  },
+  {
+    "name": "TechCorp-457",
+    "careersUrl": "https://techcorp457.myworkdayjobs.com/Careers",
+    "companyType": "Unicorn",
+    "atsType": "Workday",
+    "atsSlug": "techcorp457",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:01.494Z"
+  },
+  {
+    "name": "TechCorp-458",
+    "careersUrl": "https://techcorp458.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-459",
+    "careersUrl": "https://techcorp459.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-460",
+    "careersUrl": "https://jobs.lever.co/techcorp460",
+    "companyType": "AI-Startup",
+    "atsType": "Lever",
+    "atsSlug": "techcorp460",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:01.818Z"
+  },
+  {
+    "name": "TechCorp-461",
+    "careersUrl": "https://techcorp461.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-462",
+    "careersUrl": "https://jobs.lever.co/techcorp462",
+    "companyType": "Product",
+    "atsType": "Lever",
+    "atsSlug": "techcorp462",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:01.861Z"
+  },
+  {
+    "name": "TechCorp-463",
+    "careersUrl": "https://careers.smartrecruiters.com/techcorp463",
+    "companyType": "Service",
+    "atsType": "SmartRecruiters",
+    "atsSlug": "techcorp463",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:01.862Z"
+  },
+  {
+    "name": "TechCorp-464",
+    "careersUrl": "https://boards.greenhouse.io/techcorp464",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "techcorp464",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:01.862Z"
+  },
+  {
+    "name": "TechCorp-465",
+    "careersUrl": "https://techcorp465.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-466",
+    "careersUrl": "https://techcorp466.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-467",
+    "careersUrl": "https://boards.greenhouse.io/techcorp467",
+    "companyType": "AI-Startup",
+    "atsType": "Greenhouse",
+    "atsSlug": "techcorp467",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:02.394Z"
+  },
+  {
+    "name": "TechCorp-468",
+    "careersUrl": "https://techcorp468.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-469",
+    "careersUrl": "https://boards.greenhouse.io/techcorp469",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "techcorp469",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:01.860Z"
+  },
+  {
+    "name": "TechCorp-470",
+    "careersUrl": "https://techcorp470.teamtailor.com/jobs",
+    "companyType": "Service",
+    "atsType": "Teamtailor",
+    "atsSlug": "techcorp470",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:02.766Z"
+  },
+  {
+    "name": "TechCorp-471",
+    "careersUrl": "https://boards.greenhouse.io/techcorp471",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "techcorp471",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:02.395Z"
+  },
+  {
+    "name": "TechCorp-472",
+    "careersUrl": "https://techcorp472.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-473",
+    "careersUrl": "https://techcorp473.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-474",
+    "careersUrl": "https://boards.greenhouse.io/techcorp474",
+    "companyType": "AI-Startup",
+    "atsType": "Greenhouse",
+    "atsSlug": "techcorp474",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:02.019Z"
+  },
+  {
+    "name": "TechCorp-475",
+    "careersUrl": "https://techcorp475.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-476",
+    "careersUrl": "https://jobs.lever.co/techcorp476",
+    "companyType": "Product",
+    "atsType": "Lever",
+    "atsSlug": "techcorp476",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:02.057Z"
+  },
+  {
+    "name": "TechCorp-477",
+    "careersUrl": "https://careers.smartrecruiters.com/techcorp477",
+    "companyType": "Service",
+    "atsType": "SmartRecruiters",
+    "atsSlug": "techcorp477",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:02.396Z"
+  },
+  {
+    "name": "TechCorp-478",
+    "careersUrl": "https://boards.greenhouse.io/techcorp478",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "techcorp478",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:02.057Z"
+  },
+  {
+    "name": "TechCorp-479",
+    "careersUrl": "https://techcorp479.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-480",
+    "careersUrl": "https://techcorp480.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-481",
+    "careersUrl": "https://boards.greenhouse.io/techcorp481",
+    "companyType": "AI-Startup",
+    "atsType": "Greenhouse",
+    "atsSlug": "techcorp481",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:02.056Z"
+  },
+  {
+    "name": "TechCorp-482",
+    "careersUrl": "https://techcorp482.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-483",
+    "careersUrl": "https://boards.greenhouse.io/techcorp483",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "techcorp483",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:02.078Z"
+  },
+  {
+    "name": "TechCorp-484",
+    "careersUrl": "https://careers.smartrecruiters.com/techcorp484",
+    "companyType": "Service",
+    "atsType": "SmartRecruiters",
+    "atsSlug": "techcorp484",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:02.396Z"
+  },
+  {
+    "name": "TechCorp-485",
+    "careersUrl": "https://jobs.lever.co/techcorp485",
+    "companyType": "Unicorn",
+    "atsType": "Lever",
+    "atsSlug": "techcorp485",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:02.136Z"
+  },
+  {
+    "name": "TechCorp-486",
+    "careersUrl": "https://techcorp486.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-487",
+    "careersUrl": "https://techcorp487.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-488",
+    "careersUrl": "https://jobs.ashbyhq.com/techcorp488",
+    "companyType": "AI-Startup",
+    "atsType": "Ashby",
+    "atsSlug": "techcorp488",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:02.203Z"
+  },
+  {
+    "name": "TechCorp-489",
+    "careersUrl": "https://techcorp489.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-490",
+    "careersUrl": "https://boards.greenhouse.io/techcorp490",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "techcorp490",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:02.345Z"
+  },
+  {
+    "name": "TechCorp-491",
+    "careersUrl": "https://techcorp491.teamtailor.com/jobs",
+    "companyType": "Service",
+    "atsType": "Teamtailor",
+    "atsSlug": "techcorp491",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:03.356Z"
+  },
+  {
+    "name": "TechCorp-492",
+    "careersUrl": "https://boards.greenhouse.io/techcorp492",
+    "companyType": "Unicorn",
+    "atsType": "Greenhouse",
+    "atsSlug": "techcorp492",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:02.345Z"
+  },
+  {
+    "name": "TechCorp-493",
+    "careersUrl": "https://techcorp493.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-494",
+    "careersUrl": "https://techcorp494.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-495",
+    "careersUrl": "https://boards.greenhouse.io/techcorp495",
+    "companyType": "AI-Startup",
+    "atsType": "Greenhouse",
+    "atsSlug": "techcorp495",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:02.393Z"
+  },
+  {
+    "name": "TechCorp-496",
+    "careersUrl": "https://techcorp496.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-497",
+    "careersUrl": "https://boards.greenhouse.io/techcorp497",
+    "companyType": "Product",
+    "atsType": "Greenhouse",
+    "atsSlug": "techcorp497",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:02.393Z"
+  },
+  {
+    "name": "TechCorp-498",
+    "careersUrl": "https://techcorp498.teamtailor.com/jobs",
+    "companyType": "Service",
+    "atsType": "Teamtailor",
+    "atsSlug": "techcorp498",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:02.933Z"
+  },
+  {
+    "name": "TechCorp-499",
+    "careersUrl": "https://jobs.lever.co/techcorp499",
+    "companyType": "Unicorn",
+    "atsType": "Lever",
+    "atsSlug": "techcorp499",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:02.396Z"
+  },
+  {
+    "name": "TechCorp-500",
+    "careersUrl": "https://techcorp500.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-501",
+    "careersUrl": "https://techcorp501.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-502",
+    "careersUrl": "https://jobs.ashbyhq.com/techcorp502",
+    "companyType": "AI-Startup",
+    "atsType": "Ashby",
+    "atsSlug": "techcorp502",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:02.538Z"
+  },
+  {
+    "name": "TechCorp-503",
+    "careersUrl": "https://techcorp503.com/careers",
+    "companyType": "Indian-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-504",
+    "careersUrl": "https://jobs.lever.co/techcorp504",
+    "companyType": "Product",
+    "atsType": "Lever",
+    "atsSlug": "techcorp504",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:02.471Z"
+  },
+  {
+    "name": "TechCorp-505",
+    "careersUrl": "https://techcorp505.bamboohr.com/jobs/",
+    "companyType": "Service",
+    "atsType": "BambooHR",
+    "atsSlug": "techcorp505",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:02.078Z"
+  },
+  {
+    "name": "TechCorp-506",
+    "careersUrl": "https://jobs.lever.co/techcorp506",
+    "companyType": "Unicorn",
+    "atsType": "Lever",
+    "atsSlug": "techcorp506",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:02.471Z"
+  },
+  {
+    "name": "TechCorp-507",
+    "careersUrl": "https://techcorp507.com/careers",
+    "companyType": "YC-Startup",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-508",
+    "careersUrl": "https://techcorp508.com/careers",
+    "companyType": "Remote-First",
+    "atsType": null,
+    "atsSlug": null,
+    "hiringStatus": "Passive",
+    "lastCrawlTime": null
+  },
+  {
+    "name": "TechCorp-509",
+    "careersUrl": "https://jobs.ashbyhq.com/techcorp509",
+    "companyType": "AI-Startup",
+    "atsType": "Ashby",
+    "atsSlug": "techcorp509",
+    "hiringStatus": "Passive",
+    "lastCrawlTime": "2026-06-21T04:42:02.472Z"
+  }
+]
